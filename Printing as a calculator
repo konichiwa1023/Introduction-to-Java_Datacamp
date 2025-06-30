@@ -1,0 +1,6 @@
+class Calculator {
+	public static void main(String[] args) {
+    	// Print the result of 1+3
+        System.out.println(1 + 3);
+    }
+}
