@@ -1,5 +1,5 @@
 // Start your class here
-public class HelloWorld {
+public class HelloClass {
     // main method
     public static void main(String[] args) {
         // Use a semi-colon to end Java statements like this one
