@@ -1,0 +1,9 @@
+// This is a class
+class SecondJavaApp {
+
+	// This is the kickoff
+    public static void main (String[] args){
+    	// This statement produces output
+    	System.out.println("Java ignores comments");
+    }
+}
