@@ -1,0 +1,9 @@
+// Start your class here
+public class HelloWorld {
+    // main method
+    public static void main(String[] args) {
+        // Use a semi-colon to end Java statements like this one
+        System.out.println("Hello World");
+    }
+    // Close out the class
+}
