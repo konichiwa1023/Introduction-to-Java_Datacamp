@@ -1,0 +1,11 @@
+class InfoAboutJava {
+	public static void main(String[] args) {
+    	
+        // Create a variable called language
+        String language = "Java";
+        
+        // Create a variable called yearOfOrigin
+        int yearOfOrigin = 1995;
+    
+    }
+}
