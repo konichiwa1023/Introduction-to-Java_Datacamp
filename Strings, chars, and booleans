@@ -1,0 +1,13 @@
+class NumericalDeclarations {
+    public static void main(String[] args) {
+    
+    	// Declare the tshirt variable
+    	char tshirtSize = 'M';
+        
+        // Assign true to isOnSale
+        boolean isOnSale = true;
+        
+        // Declare and assign color
+        String color = "green";
+    }
+}
