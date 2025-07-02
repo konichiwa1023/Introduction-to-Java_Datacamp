@@ -1,0 +1,8 @@
+class NumericalDeclarations {
+    public static void main(String[] args) {
+    
+        // Declare and assign variables
+        int itemCount = 3425;
+        double totalPrice = 11999.99;
+    }
+}
